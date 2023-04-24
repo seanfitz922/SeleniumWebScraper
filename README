@@ -13,3 +13,5 @@ How to run:
 4. Enter any key to close
 
 Disclaimer: For academic purposes only. No data scraped or collected will be distributed or sold. 
+Also this project is just a proof of concept and is not in a finalized state. Many optimizations can be done, but the functionality is present. 
+Future optimaztions would be the removal of time.sleep() and to use WebDriverWait() instead.
