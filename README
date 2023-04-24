@@ -1,0 +1,15 @@
+Project Title: Movie Scraper
+Author: Sean Fitzgerald
+Date: 3/25/2023
+Version: 1.0.0
+Description: Web Scraper created with Selenium that shows movies playing and their show times
+Requirements: Chrome, Python 3.9 or higher
+
+How to run:
+
+1. Right click on program and click "Open with" and select "Python"
+2. Enter valid zip code
+3. Enter date from those displayed in the terminal
+4. Enter any key to close
+
+Disclaimer: For academic purposes only. No data scraped or collected will be distributed or sold. 
